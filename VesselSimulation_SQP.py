@@ -10,7 +10,7 @@ def sin(x): return math.sin(x)
 def cos(x): return math.cos(x)
 
 # system port
-SEND_IP = '192.168.40.2'
+SEND_IP = '000.000.00.0'
 SEND_PORT = 32361
 RECV_PORT = 32360
 
