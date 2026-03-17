@@ -5,7 +5,7 @@ import pandas as pd
 
 ### parameters
 # 1(east: 7.5°N 135°E), 2(south: 7°N 134.5°E), 3(west: 7.5°N 134°E), 4(north: 8°N 134.5°E)
-dataRoute = 'Hsinchu.txt'
+dataRoute = 'Plot_Hsinchu.txt'
 graphTitle = f'Wind Speed Distribution near Hsinchu (120.5°E 25°N), Feb 2005 ~ Jul 2018'
 ys = [2005,2019]    # year range, 2005/03/01/09~2019/05/31/21
 ms = [1,12]         # month range
