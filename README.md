@@ -1,2 +1,2 @@
 # Python-projects
-This is the folder of some previous practices or works.
+This is the folder of some of my previous practices or works.
