@@ -22,4 +22,5 @@ drawing a plot to figure out the wind condition in Hsinchu.
 operating a vessel simulator to optimize motion of a vessel. (It failed because of long training time.)
 
 6. VesselSimulation_SQP:
- operating a vessel simulater and using SQP to optimize motion of a vessel.
+
+     operating a vessel simulater and using SQP to optimize motion of a vessel.
