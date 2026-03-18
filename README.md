@@ -1,7 +1,9 @@
 # Python-projects
 Some of my previous practices and works.
 
-Ctrl_SQP: using Sequential Quadratic Programming (SQP) to figure out the best angles and the lowest power of 2 azimuth thrusters for required net force.
+Ctrl_SQP: 
+
+  using Sequential Quadratic Programming (SQP) to figure out the best angles and the lowest power of 2 azimuth thrusters for required net force.
 
 Ctrl_adaptive: experiment of adaptive control applying on a vessel.
 
